@@ -20,6 +20,7 @@ class _UserScreenState extends State<UserScreen> {
   }
   @override
   void initState() {
+    // get data immediatelt class is called
   _getData();
     super.initState();
   }
